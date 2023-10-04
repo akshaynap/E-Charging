@@ -7,7 +7,7 @@
 
   Volti is a fully responsive electric vehicle charging website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/khantaha2112/E-charging"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/akshaynap"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://github.com/khantaha2112/E-charging") must be installed on your operating system.
+* [Git](https://github.com/akshaynap/E-charging") must be installed on your operating system.
 
 ### Run Locally
 
@@ -30,18 +30,18 @@ To run **Volti** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/khantaha2112/E-charging
+sudo git clone https://github.com/akshaynap/E-charging
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/khantaha2112/E-charging
+git clone https://github.com/akshaynap/E-charging
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/taha-khan-421b85229).
+If you want to contact with me you can reach me at [linkedin][(https://www.linkedin.com/in/akshay-kumar-081769151/)].
 
 ### License
 
